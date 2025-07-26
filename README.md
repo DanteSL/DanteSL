@@ -3,12 +3,9 @@
 <br><br>
 
 # Olá, e Bem vindo ao meu Perfil!
- 1. Estudante de programação iniciante
- 2. Focando em Front-End
- 3. Objetivo de ser Full-Stack
- 4. Amante de jogos/Mangás/Animes
- 5. 25 Anos
-
+> Iniciante em programação | 25 Anos | Apaixonado por Jogos/Mangás | Objetivo de Ser Full-Stack |
+<!-- Eu ;D -->
+ 
 Objetivos:
 - [x] HTML5
 - [X] CSS3
