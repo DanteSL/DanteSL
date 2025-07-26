@@ -14,7 +14,7 @@ Objetivos:
 - [x] Hardware e Software
 - [ ] JavaScript
 - [ ] React
-- [ ] Python
+- [ ] NodeJS
 - [ ] SQL
 
 
