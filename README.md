@@ -12,7 +12,7 @@ Objetivos:
 - [x] Rede de Computadores
 - [x] Git e GitHub
 - [x] Hardware e Software
-- [x] JavaScript
+- [ ] JavaScript
 - [ ] React
 - [ ] NodeJS
 - [ ] SQL
