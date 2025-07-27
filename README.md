@@ -20,7 +20,7 @@ Objetivos:
 
 <!-- Divs -->
 <div style="display: flex;">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=danteSL&theme=aura&show_icons=true&locale=pt-br" /> <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danteSL&theme=aura&hide_progress=false&locale=pt-br" />
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=danteSL&theme=aura&show_icons=true&locale=pt-br" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danteSL&theme=aura&hide_progress=false&locale=pt-br" />
 </div>
 
 </div>
