@@ -20,9 +20,10 @@ Objetivos:
 
 <!-- Divs -->
 <div style="display: flex;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danteSL&theme=aura&hide_border=false&include_all_commits=true&show_icons=true&count_private=false&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danteSL&layout=compact&langs_count=5&icon_color=777bd9&title_color=777bd9&bg_color=1a181a&text_color=FFFF" />
- <!-- Linha 2 -->
- <img height="100px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643">
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=danteSL&theme=aura&show_icons=true&locale=pt-br" />
+ <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danteSL&theme=aura&hide_progress=false&locale=pt-br" />
+</div>
+
 </div>
 <a href="https://www.html.com/en/">
     <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
