@@ -3,7 +3,7 @@
 <br><br>
 
 # Olá, e bem vindo ao meu perfil!
-> Iniciante em programação | 26 Anos | Apaixonado por Jogos/Mangás | Objetivo de Ser Full-Stack |
+> Analista de Suporte Técnico | 26 Anos | Apaixonado por Jogos/Mangás | Objetivo de Ser Full-Stack |
 <!-- Eu ;D -->
  
 Objetivos:
